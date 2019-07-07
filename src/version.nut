@@ -1,0 +1,3 @@
+SELF_VERSION <- 1;
+SELF_DATE <- "2019-07-06";
+SELF_NAME <- "Town Booster";
